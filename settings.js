@@ -7,34 +7,34 @@
 const fs = require('fs')
 const chalk = require('chalk')
 //contact details
-global.ownernomer = "255756530143"
-global.ownername = "HANSTZ"
-global.ytname = "HANSTZ-TECH"
+global.ownernomer = "260771798128"
+global.ownername = "Cyrus"
+global.ytname = "El Chapo"
 global.socialm = "GitHub: Mrhanstz"
-global.location = "AFRICA, TANZANIA, DODOMA"
-global.ownernumber = '255756530143'  //creator number
-global.ownername = 'HANSTZ' //owner name
+global.location = "AFRICA, ZAMBIA, DODOMA"
+global.ownernumber = '260771798128'  //creator number
+global.ownername = 'cyrus' //owner name
 global.botname = 'HANS-XMD' //name of the bot
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'HANS-XMD'
+global.packname = 'Sticker By Cyrus'
+global.author = 'Mk'
 //console view/theme
 global.themeemoji = '⚠️'
 global.wm = "HANS BOT"
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31'
+global.link = 'https://whatsapp.com/channel/0029VaoIqE1HbFV2kxWFeo10'
 //custom prefix
 global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 
-global.autolikestatus = true //For auto react Status Random
+global.autolikestatus = false //For auto react Status Random
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti91 = false //auto block +91 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 global.autoreact = false // This is For Auto React 
 global.welcome = false // For Welcome massage groups
 
@@ -43,14 +43,14 @@ function _0x4ff5(){var _0x1862ca=['461943cvzJyc','606987HWlNfm','120sUPkBN','653
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only',
-    admin: 'This feature can be used by admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
-    group: 'This feature is only for groups',
+    prem: 'This feature can be used by Cyrus only',
+    admin: 'This feature can be used by my niggas only so get the fuck out bitch 🦍',
+    botAdmin: 'iwe stanyoko make me admin if you want to use that feature🙂',
+    owner: 'you are not my owner chikala🗿',
+    group: 'This feature is only for groups nigga🦍',
     private: 'This feature is only for private chats',
-    wait: 'In process... ',    
-    error: 'Error!',
+    wait: 'chill nigga its loading🛀... ',    
+    error: 'hada something went wrong try again 😅',
 }
 global.thumb = fs.readFileSync('./HansTzMedia/thumb.jpg')
 let file = require.resolve(__filename)
